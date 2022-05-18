@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![my favourite github project (to troll)](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)
